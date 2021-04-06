@@ -11,6 +11,7 @@ It generates an archive of posts on your homepage, according to the `index` or `
 ## Installation
 
 ``` bash
+$ npm uninstall hexo-generator-index
 $ npm install hexo-generator-index-exclude --save
 ```
 
