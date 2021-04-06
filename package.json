@@ -23,6 +23,7 @@
     "exclude",
     "categories"
   ],  
+  "repository": "wellmoonloft/hexo-generator-index-exclude",
   "engines": {
     "node": ">=10.13.0"
   },

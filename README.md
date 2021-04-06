@@ -1,8 +1,8 @@
-# hexo-generator-index
+# hexo-generator-index-exclude
 
-[![Build Status](https://travis-ci.org/hexojs/hexo-generator-index.svg?branch=master)](https://travis-ci.org/hexojs/hexo-generator-index)
-[![NPM version](https://badge.fury.io/js/hexo-generator-index.svg)](https://www.npmjs.com/package/hexo-generator-index)
-[![Coverage Status](https://img.shields.io/coveralls/hexojs/hexo-generator-index.svg)](https://coveralls.io/r/hexojs/hexo-generator-index?branch=master)
+Fork from hexo-generator-index
+
+Only the exclusion logic has been added, and nothing else has changed. I chose to upload to use automatic deployment
 
 Index generator for [Hexo].
 
